@@ -24,52 +24,52 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": "992488025491853312",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Annette Henrekin",
+      "managerID": "474266095306403840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Will May",
     },
     {
-      "managerID": "992494912170008576",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Itzel Gierach",
+      "managerID": "721815388958068736",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Filip Gibarac",
     },
     {
-      "managerID": "994373863775485952",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Michael Kelley",
+      "managerID": "871250245194002432",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Jennifer Tafoya",
     },
     {
-      "managerID": "992484321476882432",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Becca Bordner",
+      "managerID": "990037020124692480",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Kyle Baird",
     },
     {
-      "managerID": "994277541399576576",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Danielle Miller",
+      "managerID": "992480538508238848",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Denise Suarez",
     },
     {
-      "managerID": "992478593026527232",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Damian Rosenberg",
+      "managerID": "992490716486017024",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Tracy Sharrow",
     },
     {
-      "managerID": "992475761888100352",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Sandi Newcomb",
+      "managerID": "992495477729898496",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Adrian Vigil",
     },
     {
-      "managerID": "992481238671798272",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Andrew Braund",
+      "managerID": "992495718579359744",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Uli Arnold",
     },
     {
-      "managerID": "340270942104117248",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Chris Laney",
+      "managerID": "994298466748755968",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Sarah Southorn",
     },
     {
-      "managerID": "992537211646099456",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Adelia Hubbs",
+      "managerID": "994299235573059584",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Stephanie Vigil",
     },
     {
-      "managerID": "992503993815375872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Azlima Simmons",
+      "managerID": "1000480227040010240",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Claudia Bradley",
     },
     {
-      "managerID": "992481978257661952",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Carol Farmer",
+      "managerID": "994648641811824640",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Kara Delgado",
     },
   ]
   
